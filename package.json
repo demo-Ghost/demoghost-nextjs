@@ -4,6 +4,7 @@
   "private": "true",
   "license": "MIT",
   "scripts": {
+    "build": "next build",
     "dev": "next dev",
     "preview": "next build && next start"
   },
